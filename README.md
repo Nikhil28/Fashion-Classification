@@ -8,7 +8,7 @@ Here, I have a training set consists of 70,000 sample images of Fashion Products
 <img src='0.png' width='175px'><img src='1.png' width='175px'><img src='2.png' width='175px'><img src='3.png' width='175px'><img src='4.png' width='175px'><img src='5.png' width='175px'><img src='6.png' width='175px'><img src='7.png' width='175px'><img src='8.png' width='175px'><img src='9.png' width='175px'>
 
 <br>
-In this case study, I assume that the Ecommerce Platform or a Retail Shop of fashion products has 60,000 products from above Product Category. I trained our model to predict products (10,000 products) used by our customers in the past. So, we can recommend similar products of there choice to them.
+In this case study, I assume that the Ecommerce Platform or the Retail Shop of fashion products has 60,000 products from above Product Category. I trained my model to predict the Product Category of 10,000 products used by the customers in the past. So, we can recommend similar products of their choice to them.
 <br>
 <br>
 <br>
@@ -17,7 +17,10 @@ In this case study, I assume that the Ecommerce Platform or a Retail Shop of fas
 </pre>
 <br>
 <br>
-I tried 32 fliters first and then 64 fliters with and without dropout of 0.25 to improve the performance of our model (CNN - used TensorFlow backend for Keras). 
-<br><br>Test Accuracy of our modal is raised from around 90% to 92%. 
-<br><br>
-I tried to comment and mantain code very well but sill if you have any query ping <em><a href="https://www.linkedin.com/in/mrnikhilgupta/" rel="nofollow">me (Nikhil Gupta)</a></em>.
+I tried 32 filters first. Then 64 filters with and without a dropout of 0.25 to improve the performance of my model (CNN - used TensorFlow backend for Keras). 
+<br>
+<br>
+The test Accuracy of my modal is raised from around 90% to 92%. 
+<br>
+<br>
+I tried to comment and maintain code very well but sill, if you have any query ping <em><a href="https://www.linkedin.com/in/mrnikhilgupta/" rel="nofollow">me (Nikhil Gupta)</a></em>.
