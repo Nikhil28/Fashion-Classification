@@ -24,3 +24,6 @@ The test Accuracy of my modal is raised from around 90% to 92%.
 <br>
 <br>
 I tried to comment and maintain code very well but sill, if you have any query ping <em><a href="https://www.linkedin.com/in/mrnikhilgupta/" rel="nofollow">me (Nikhil Gupta)</a></em>.
+<br>
+<br>
+<em>*Due to bigger size of data, I won't be able to share it with you here. Ping me if you need this dataset.</em>
